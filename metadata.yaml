@@ -1,0 +1,31 @@
+_repo: The-World-s-Great-Sermons-Volume-01--13-Basil-to-Calvin_11981
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Kleiser, Grenville
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '4071'
+    url: http://www.gutenberg.org/2009/agents/4071
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Sermons'
+- GITenberg
+tableOfContents: The creation of the world / Basil -- Excessive grief at the death
+  of friends / Chrysostom -- The recovery of sight by the blind / Augustine -- Christ's
+  real body not in the Eucharist / Wyclif -- The ascension of Christ / Savonarola
+  -- The method and fruits of justification / Luther -- On Christian love / Latimer
+  -- The safety of the virtuous / Melanchthon -- The first temptation of Christ /
+  Knox -- Enduring persecution for Christ / Calvin.
+title: "The World's Great Sermons, Volume 01\r\nBasil to Calvin"
+url: http://www.gutenberg.org/ebooks/11981
